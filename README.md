@@ -1,5 +1,5 @@
 # NMPDpred (Neuroinflammation mediated Parkinson's Disease Prediction)
-A **Machine Learning–Aided Compounds Screening Tool** for predicting pIC₅₀ against MMP9**.  
+**Machine Learning–Aided Screening of Compounds** for predicting pIC₅₀ against the core neuroinflammatory hub protein MMP9**.  
 
 ---
 
