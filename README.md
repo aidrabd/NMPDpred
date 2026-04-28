@@ -40,8 +40,8 @@ The consistency of R² accross datasets highlight the robustness of the model in
 
 ```bash
 # Clone and setup
-git clone https://github.com/aidrabd/TarEGFR.git
-cd TarEGFR
+git clone https://github.com/aidrabd/NMPDpred.git
+cd NMPDpred
 
 # Make prediction script executable
 chmod +x predict.py
@@ -113,5 +113,4 @@ If you use **NMPDpred** in your research, please cite:
 ## 🙏 Acknowledgments
 - Training data curated from **ChEMBL** and published literature  
 - Molecular descriptors generated using **RDKit**  
-- Molecular docking and dynamics simulations performed using **AutoDock Vina** and **Schrodinger's DESMOND**  
 - Special thanks to the **open-source bioinformatics and cheminformatics communities**
