@@ -21,7 +21,7 @@ Our **Random Forest regression model** demonstrated strong predictive performanc
 | Test Set | 0.8061 |
 | CV | **0.8116** |
 
-The consistency of R² accross datasets highlight the robustness of the model in predicting EGFR inhibitory activity (pIC₅₀).  
+The consistency of R² accross datasets highlight the robustness of the model in predicting inhibitory activity (pIC₅₀) against MMP9.  
 
 ---
 
